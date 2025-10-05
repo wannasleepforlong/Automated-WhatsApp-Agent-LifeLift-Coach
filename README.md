@@ -32,3 +32,5 @@ Video: Click here[https://github.com/user-attachments/assets/d1c8005e-3735-476a-
 
 <img width="1043" height="499" alt="image" src="https://github.com/user-attachments/assets/c1b484da-c874-408d-92fc-1a16915d18d7" />
 
+<img width="419" height="677" alt="image" src="https://github.com/user-attachments/assets/63f7144e-e325-4175-845c-696345590801" />
+
