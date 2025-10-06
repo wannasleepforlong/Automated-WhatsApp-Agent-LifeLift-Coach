@@ -1,5 +1,5 @@
 # Automated-WhatsApp-Agent-LifeLift-Coach
-A smart Life Coach assistant built with n8n
+A smart Life Coach assistant built with n8n, GPT-4.1 mini and Gemini 2.0 Flash-Lite
 ## Pipeline Workflow
 
 ### User Trigger
